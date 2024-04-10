@@ -1,0 +1,6 @@
+artifact_location: /home/snoronha/projects/instruction_tuning_olmo/mlflow_results/olmo_orcaslim_instruct/990176035551730847
+creation_time: 1712782349810
+experiment_id: '990176035551730847'
+last_update_time: 1712782349810
+lifecycle_stage: active
+name: slimorca_dataset_training
