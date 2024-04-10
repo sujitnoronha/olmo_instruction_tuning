@@ -1,5 +1,5 @@
 artifact_uri: /home/snoronha/projects/instruction_tuning_olmo/mlflow_results/olmo_orcaslim_instruct/990176035551730847/31bdf2c3c41d41cf9ae1595be67d753b/artifacts
-end_time: null
+end_time: 1712785320263
 entry_point_name: ''
 experiment_id: '990176035551730847'
 lifecycle_stage: active
@@ -10,6 +10,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1712782357525
-status: 1
+status: 3
 tags: []
 user_id: snoronha
