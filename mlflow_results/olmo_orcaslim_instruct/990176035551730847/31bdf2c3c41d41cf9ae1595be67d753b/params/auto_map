@@ -1,0 +1,1 @@
+{'AutoConfig': 'allenai/OLMo-1B--configuration_olmo.OLMoConfig', 'AutoModelForCausalLM': 'allenai/OLMo-1B--modeling_olmo.OLMoForCausalLM', 'AutoTokenizer': ['allenai/OLMo-1B--tokenization_olmo_fast.OLMoTokenizerFast', 'allenai/OLMo-1B--tokenization_olmo_fast.OLMoTokenizerFast']}
