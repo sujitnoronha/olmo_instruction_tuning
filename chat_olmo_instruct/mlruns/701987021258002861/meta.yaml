@@ -1,0 +1,6 @@
+artifact_location: file:///home/snoronha/projects/instruction_tuning_olmo/chat_olmo_instruct/mlruns/701987021258002861
+creation_time: 1712989698621
+experiment_id: '701987021258002861'
+last_update_time: 1712989698621
+lifecycle_stage: active
+name: olmo1b_chat

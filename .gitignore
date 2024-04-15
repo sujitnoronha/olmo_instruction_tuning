@@ -1,0 +1,4 @@
+datasets/
+slimorca/
+models/
+mlflow_results/*
